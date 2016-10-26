@@ -1,0 +1,6 @@
+[submodule "capirca"]
+	path = capirca
+	url = https://github.com/google/capirca.git
+[submodule "ldpush"]
+	path = ldpush
+	url = https://github.com/google/ldpush.git
